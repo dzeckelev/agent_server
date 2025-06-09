@@ -193,4 +193,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-./.idea/
+# JetBrains IDEs
+.idea
